@@ -35,3 +35,6 @@ docker-compose.yml
 # Ignore coverage files
 /coverage
 .tool-versions
+
+# Ignore INFO to test
+/INFO.md
